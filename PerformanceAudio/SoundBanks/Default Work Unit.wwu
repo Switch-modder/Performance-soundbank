@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{3CC5B44F-C296-49DB-A3E4-BCE784B17053}" SchemaVersion="85">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{3CC5B44F-C296-49DB-A3E4-BCE784B17053}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Performances" ID="{DDBC0EEF-9C0C-4FE2-881B-56A27A907A3D}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Binaryeyes_intro" ID="{D7D4F068-CAEC-42BB-B54D-78523E0C92F4}" WorkUnitID="{6FBAA713-1E84-4C6D-B432-907209FC0F28}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play__Robot_Vic_Sfx__Loose_Pixel_Start" ID="{72E0A7D0-18A2-4338-A8A5-66A12BD2BC8A}" WorkUnitID="{4EB376BC-F3CC-497F-947A-320FAB63E5BC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Binaryeyes_start_glitch" ID="{4EDAB516-F589-455B-BDF1-04DAE3B47AD5}" WorkUnitID="{6FBAA713-1E84-4C6D-B432-907209FC0F28}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Loosepixel_start" ID="{A4A10C19-B65B-46BC-A59D-03A926014917}" WorkUnitID="{6FBAA713-1E84-4C6D-B432-907209FC0F28}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play__Robot_Vic_Sfx__Tangram_Start" ID="{02DFF8AD-125B-49C9-A274-37CBD638165C}" WorkUnitID="{4EB376BC-F3CC-497F-947A-320FAB63E5BC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play__Robot_Vic_Sfx__Binary_Eyes_Intro" ID="{782E0DD2-7FDC-4A72-BBFA-BE310D4DEA9C}" WorkUnitID="{4EB376BC-F3CC-497F-947A-320FAB63E5BC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play__Robot_Vic_Sfx__Binary_Eyes_Start_Glitch" ID="{D6B4143A-BEFC-4A7A-BA92-D787D6E00B50}" WorkUnitID="{4EB376BC-F3CC-497F-947A-320FAB63E5BC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play__Robot_Vic_Sfx__Binary_Eyes_Outro" ID="{B29C4797-0967-4C6C-A86B-480BDE7C5A7E}" WorkUnitID="{4EB376BC-F3CC-497F-947A-320FAB63E5BC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Tangram" ID="{5DB5B4C7-70AA-4CB0-B81F-46E009AFA439}" WorkUnitID="{6FBAA713-1E84-4C6D-B432-907209FC0F28}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Binaryeyes_outro" ID="{FE12CCCD-2ACB-4EEB-90C1-1CCE2CE47E2C}" WorkUnitID="{6FBAA713-1E84-4C6D-B432-907209FC0F28}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

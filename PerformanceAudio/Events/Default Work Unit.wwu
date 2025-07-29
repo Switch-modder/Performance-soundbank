@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{4EB376BC-F3CC-497F-947A-320FAB63E5BC}" SchemaVersion="85">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{4EB376BC-F3CC-497F-947A-320FAB63E5BC}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play__Robot_Vic_Sfx__Tangram_Start" ID="{02DFF8AD-125B-49C9-A274-37CBD638165C}">
+					<ChildrenList>
+						<Action Name="" ID="{BCF0839A-55BC-445F-ADAC-2B3BFB5AB2DF}" ShortID="310645725">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Tangram" ID="{5DB5B4C7-70AA-4CB0-B81F-46E009AFA439}" WorkUnitID="{6FBAA713-1E84-4C6D-B432-907209FC0F28}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play__Robot_Vic_Sfx__Loose_Pixel_Start" ID="{72E0A7D0-18A2-4338-A8A5-66A12BD2BC8A}">
+					<ChildrenList>
+						<Action Name="" ID="{111C4090-C7BE-4E42-A81A-142D92C4A4D9}" ShortID="206653276">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Loosepixel_start" ID="{A4A10C19-B65B-46BC-A59D-03A926014917}" WorkUnitID="{6FBAA713-1E84-4C6D-B432-907209FC0F28}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play__Robot_Vic_Sfx__Binary_Eyes_Start_Glitch" ID="{D6B4143A-BEFC-4A7A-BA92-D787D6E00B50}">
+					<ChildrenList>
+						<Action Name="" ID="{0947E2CA-EE15-4ECD-B136-B73190B9293D}" ShortID="796308411">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Binaryeyes_start_glitch" ID="{4EDAB516-F589-455B-BDF1-04DAE3B47AD5}" WorkUnitID="{6FBAA713-1E84-4C6D-B432-907209FC0F28}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play__Robot_Vic_Sfx__Binary_Eyes_Intro" ID="{782E0DD2-7FDC-4A72-BBFA-BE310D4DEA9C}">
+					<ChildrenList>
+						<Action Name="" ID="{FF4DBC8A-2BAA-4BE8-987F-0DE5AA7ACCBD}" ShortID="757283853">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Binaryeyes_intro" ID="{D7D4F068-CAEC-42BB-B54D-78523E0C92F4}" WorkUnitID="{6FBAA713-1E84-4C6D-B432-907209FC0F28}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play__Robot_Vic_Sfx__Binary_Eyes_Outro" ID="{B29C4797-0967-4C6C-A86B-480BDE7C5A7E}">
+					<ChildrenList>
+						<Action Name="" ID="{1C4901CC-F0D4-4B2C-992A-0F7EF4343074}" ShortID="861335042">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Binaryeyes_outro" ID="{FE12CCCD-2ACB-4EEB-90C1-1CCE2CE47E2C}" WorkUnitID="{6FBAA713-1E84-4C6D-B432-907209FC0F28}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
