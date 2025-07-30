@@ -4,6 +4,13 @@
 		<WorkUnit Name="Default Work Unit" ID="{6FBAA713-1E84-4C6D-B432-907209FC0F28}" PersistMode="Standalone">
 			<ChildrenList>
 				<Sound Name="Binaryeyes_intro" ID="{D7D4F068-CAEC-42BB-B54D-78523E0C92F4}" ShortID="333991636">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-15</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0ECAB21F-2D10-4336-BCFB-1D372536CC6D}"/>
@@ -23,6 +30,13 @@
 					</ActiveSourceList>
 				</Sound>
 				<Sound Name="Binaryeyes_outro" ID="{FE12CCCD-2ACB-4EEB-90C1-1CCE2CE47E2C}" ShortID="690009057">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-15</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0ECAB21F-2D10-4336-BCFB-1D372536CC6D}"/>
@@ -42,6 +56,13 @@
 					</ActiveSourceList>
 				</Sound>
 				<Sound Name="Binaryeyes_start_glitch" ID="{4EDAB516-F589-455B-BDF1-04DAE3B47AD5}" ShortID="898754288">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-15</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0ECAB21F-2D10-4336-BCFB-1D372536CC6D}"/>
@@ -61,6 +82,13 @@
 					</ActiveSourceList>
 				</Sound>
 				<Sound Name="Loosepixel_start" ID="{A4A10C19-B65B-46BC-A59D-03A926014917}" ShortID="160748060">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-15</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0ECAB21F-2D10-4336-BCFB-1D372536CC6D}"/>
@@ -80,6 +108,13 @@
 					</ActiveSourceList>
 				</Sound>
 				<Sound Name="Tangram" ID="{5DB5B4C7-70AA-4CB0-B81F-46E009AFA439}" ShortID="944070403">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-15</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{0ECAB21F-2D10-4336-BCFB-1D372536CC6D}"/>
